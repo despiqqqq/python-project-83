@@ -2,7 +2,7 @@
 name = "hexlet-code"
 version = "1.0.0"
 description = "SEO Page Analyzer is a web tool to check a web page readiness for SEO (Search Engine Optimization)"
-authors = ["Denis Bolshakov <dreu007@gmail.com>"]
+authors = ["despiqqqq"]
 readme = "README.md"
 packages = [{include = "page_analyzer"}]
 
