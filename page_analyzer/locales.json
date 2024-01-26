@@ -1,0 +1,66 @@
+{
+    "eng": {
+        "title": "Web Page Analyzer",
+	"url": "URL",
+        "urls": "URLs",
+        "lang": "Languages",
+        "description": " Validate web page SEO-adaptiveness",
+        "button": {
+	    "btn-check": "CHECK",
+	    "btn-start-check": "Start check"
+	},
+	"checks": "Checks",
+	"flash": {
+	    "invalid": "Invalid URL",
+	    "missing": "URL required",
+	    "added": "Web page is successfully added",
+	    "exist": "Web page already exists",
+	    "SuccessfullCheck": "URL is successfully checked",
+	    "ResponseError": "An error occurred while checking"
+	},
+	"table": {
+	    "id": "ID",
+	    "name": "Name",
+	    "updated_at": "Updated at",
+	    "code": "Code answer",
+	    "h1": "h1",
+	    "title": "title",
+	    "description": "description",
+	    "created_at": "Created_at"
+	}
+    },
+    "rus": {
+        "title": "\u0410\u043d\u0430\u043b\u0438\u0437\u0430\u0442\u043e\u0440 \u0441\u0442\u0440\u0430\u043d\u0438\u0446",
+	"url": "Сайт",
+        "urls": "\u0421\u0430\u0439\u0442\u044b",
+        "lang": "\u042f\u0437\u044b\u043a",
+        "description": "\u0411\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u043e \u043f\u0440\u043e\u0432\u0435\u0440\u044f\u0439\u0442\u0435 \u0441\u0430\u0439\u0442\u044b \u043d\u0430 SEO-\u043f\u0440\u0438\u0433\u043e\u0434\u043d\u043e\u0441\u0442\u044c",
+        "button": {
+	    "btn-check": "ПРОВЕРИТЬ",
+	    "btn-start-check": "Запустить проверку"
+	},
+	"checks": "Проверки",
+	"flash": {
+	    "invalid": "Некорректный URL",
+	    "missing": "URL обязателен",
+	    "added": "Страница успешно добавлена",
+	    "exist": "Страница уже существует",
+	    "SuccessfullCheck": "Страница успешно проверена",
+	    "ResponseError": "Произошла ошибка при проверке"
+	},
+	"table": {
+	    "id": "ID",
+	    "name": "Имя",
+	    "updated_at": "Последняя проверка",
+	    "code": "Код ответа",
+	    "h1": "h1",
+	    "title": "title",
+	    "description": "description",
+	    "created_at": "Дата создания"
+	}
+    },
+    "languages": {
+        "rus": "\u0420\u0443\u0441\u0441\u043a\u0438\u0439",
+        "eng": "English"
+    }
+}
